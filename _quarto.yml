@@ -11,6 +11,9 @@ website:
     right:
       - icon: github
         href: https://github.com/quarto-ext/shinylive-quarto
+    left: 
+      - href: index.qmd
+        text: Home
 
 format:
   html:
